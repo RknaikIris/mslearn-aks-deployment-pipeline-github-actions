@@ -1,0 +1,9 @@
+apiVersion: v2
+name: contoso-website
+description: A Helm chart for Kubernetes
+di
+type: application
+
+version: 0.1.0
+
+appVersion: 1.16.0
